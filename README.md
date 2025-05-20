@@ -1,6 +1,7 @@
 # Building-and-automate-ETL-pipeline-airflow
-building an Airflow DAG using Astro (Astronomer) with Docker to automate the extraction, transformation, and delivery of Portland weather data.
-
+* building an Airflow DAG using Astro (Astronomer) with Docker to automate the extraction, transformation, and delivery of Portland weather data.
+* If you want to test on another country just change in tasks (is_weather_api_ready,extract_weather_data) in endpoint with country you want.
+ 
 ### 🧰 **Tools and Environment**
 
 * **Airflow**: Orchestrating tasks.
