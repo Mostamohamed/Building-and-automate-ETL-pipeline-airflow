@@ -91,4 +91,3 @@ Every day, the pipeline will:
 3. Format the data and store it in a timestamped CSV.
 4. Send that CSV to a Discord channel automatically.
 
-Let me know if you want help improving security (e.g., hiding the bot token), modularizing the code, or extending this DAG for multiple cities.
